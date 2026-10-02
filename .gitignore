@@ -1,0 +1,7 @@
+mango/images/
+mango/labels/
+mango/augmented_by_class/
+mango/final_dataset/
+mango/split_by_class/
+mango/models/
+mango/runs/

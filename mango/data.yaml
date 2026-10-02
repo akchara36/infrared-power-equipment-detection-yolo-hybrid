@@ -1,0 +1,15 @@
+train: "C:/Users/Akchara/Desktop/mango/final_dataset/train/images"
+val:   "C:/Users/Akchara/Desktop/mango/final_dataset/val/images"
+test:  "C:/Users/Akchara/Desktop/mango/final_dataset/test/images"
+
+nc: 13
+names: ['arrester', 'breaker', 'busbar', 'bushing', 'clamp', 'conservator',
+        'current-transformer', 'disconnector', 'disconnector2', 'disconnector3',
+        'heat-sink', 'insulator', 'transformer']
+
+roboflow:
+  workspace: shanghai-jiao-tong-university-xwhvl
+  project: infraredimageofpowerequipment
+  version: 9
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/shanghai-jiao-tong-university-xwhvl/infraredimageofpowerequipment/dataset/9
